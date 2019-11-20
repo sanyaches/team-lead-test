@@ -1,5 +1,11 @@
 # team-lead-test
 
+## Project clone
+```
+git clone https://github.com/sanyaches/team-lead-test.git
+cd team-lead-test
+```
+
 ## Project setup
 ```
 npm install
